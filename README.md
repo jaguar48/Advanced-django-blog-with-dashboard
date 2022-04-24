@@ -1,4 +1,5 @@
-##  MultiBlogs - Multi Authors Blog Project in Django/Python
+##  Advanced-django-blog - 
+Advanced-django-blog Project in Django/Python
 #### Navigation : [Technology](#technology-used---)--[Setup Local](#how-to-setup-in-windowsmaclinux)--[Project Features](#project-features---)--[Project Images](#project-images)--[Issues](#issues--questions)--[Ower Info ](#repository-owner-info) 
 
   

@@ -18,8 +18,8 @@ Advanced-django-blog Project in Django/Python
 2. Frontend User Admin Panel [ SB Admin 2 ](https://startbootstrap.com/theme/sb-admin-2).
 
 ### How to SETup in Windows/MAC/Linux
-1. Clone this Project <code>git clone https://github.com/yeazin/Multi-Authors-advanced-Django-Blog.git </code>
-2. Go to Project Directory <code>cd Multi-Authors-advanced-Django-Blog </code>
+1. Clone this Project <code>git clone https://github.com/jaguar48/Advanced-django-blog-with-dashboard </code>
+2. Go to Project Directory 
 3. Create a Virtual Environment :-
     * for Windows <code>python -m venv env </code>
     * for Linux/Mac <code>python3 -m venv env </code>
@@ -83,4 +83,3 @@ Advanced-django-blog Project in Django/Python
 ![search result](images/readme/search.png "search result")
 
 ![without search result](images/readme/without_search.png " without search result")
-### Issues & Questions
